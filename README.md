@@ -1,0 +1,1 @@
+Scrimba Tenzies game with rolls required to win along with time spent playing, which saves fastest time in local storage.
